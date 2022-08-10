@@ -2,14 +2,14 @@
 import static java.lang.System.out;
 import javax.swing.JOptionPane;
 
-public class AgregarInvitados {
+public class AgregarInvitados {oaH
 
     public static void main(String[] args) {
         int VectorInvitados[];
         String respuesta;
         VectorInvitados = new int[10];
 
-        //Inicializamos el vector
+     /Inicializamos el vecto
         for (int Numcuartos = 0; Numcuartos < 10; Numcuartos++) {
             VectorInvitados[Numcuartos] = 0;
         }
