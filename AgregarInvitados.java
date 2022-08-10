@@ -30,6 +30,6 @@ public class AgregarInvitados {
             out.print("\t");
             out.println(VectorInvitados[NumCuarto]);
         }
-    }
+    }//hola soy nuevo
 }
 //Codigo para agregar huespedes a una habitacion
